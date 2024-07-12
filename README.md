@@ -24,4 +24,8 @@ Este proyecto de API REST con temática de foro permite aprender e implementar d
 ### 🎓 Aprendizaje y Desarrollo 
 
 Este proyecto proporciona una experiencia práctica en el desarrollo de aplicaciones backend con Java y Spring Boot, fortaleciendo el conocimiento en la implementación de APIs RESTful, integración con bases de datos MySQL, y buenas prácticas de desarrollo de software.
+
+
+
+
 ![Badge-Spring](https://github.com/user-attachments/assets/da074f6d-af0d-4a65-9eba-17ff79107eed)
