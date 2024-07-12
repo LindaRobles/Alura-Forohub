@@ -7,7 +7,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.time.LocalDateTime;
-//commit to github
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
@@ -20,3 +20,5 @@ public class TopicoDTO {
     private Curso curso;
     private LocalDateTime createdAt;
 }
+
+//incluir localtime con java.time
